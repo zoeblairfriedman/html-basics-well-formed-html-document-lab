@@ -55,19 +55,19 @@ browser window, typically in the _tab_. As the web developer, you get to decide
 what the title will be — whatever text you type in between the `title` tags will
 show up as the page title.
 
-You can run the tests for this lab via `learn`. Make sure you save the file
+You can run the tests for this lab via `learn test`. Make sure you save the file
 before running this command. Failing tests will provide helpful error messages
 that you can use to debug your code — read them closely for hints!
 
 ### View Your Work in the Browser
 
 While working through these assignments, your general workflow should center on
-writing code in the text editor and periodically running `learn` in the terminal
+writing code in the text editor and periodically running `learn test` in the terminal
 to check your work.
 
 Another great way to track your progress is to open up the HTML document in your
 browser and watch how each change you make in the text editor affects the visual
-layout in the browser. For reference, here's a guide to [viewing HTML pages in the Learn IDE][help].
+layout in the browser. (If applicable, here's a guide to [viewing HTML pages in the Learn IDE][help].)
 
 Once you have the HTML document open in your browser, you can make changes to it
 in the text editor, save the file, refresh the page in the browser, and see the
